@@ -1,3 +1,4 @@
 # Estadistica
 
-este repositorio contiene ...
+este repositorio prueba la conexion entre git y github
+
